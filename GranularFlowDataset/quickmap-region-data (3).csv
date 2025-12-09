@@ -1,0 +1,25 @@
+
+# center = 14.834807,-48.217851
+# size (m) = 804.947151,809.390862
+# pixel scale (m/px) = 50.586929,50.586929  
+
+source,units,min,max,mean,sdev
+Avg Earth visibility 120m,unitless,-inf,-inf,-inf,-inf
+Avg Earth visibility 240m,unitless,-inf,-inf,-inf,-inf
+Avg Earth visibility 60m,unitless,-inf,-inf,-inf,-inf
+Avg Sun visibility 120m,unitless,-inf,-inf,-inf,-inf
+Avg Sun visibility 240m,unitless,-inf,-inf,-inf,-inf
+Avg Sun visibility 60m,unitless,-inf,-inf,-inf,-inf
+Deconvolved Hydrogen Map,ug/g,91.756,91.756,91.756,0
+Derived Optical Maturity,unitless,0.201476,0.387274,0.240909,0.0269998
+Diviner H-Parameter,m,0.0371906,0.0621295,0.0471842,0.0058825
+Iron Abundance,wt%,5.7,5.7,5.7,0
+LOLA roughness map,unitless,1.583,1.583,1.583,0
+M3 1um depth,unitless,0.038254,0.0447303,0.0418969,0.00321904
+M3 2um center,nm,1978.82,2038.48,2012.38,29.6632
+Polar Summer Avg temp,K,-inf,-inf,-inf,-inf
+Polar Summer Max temp,K,-inf,-inf,-inf,-inf
+Polar Summer Min temp,K,-inf,-inf,-inf,-inf
+TerrainHeight,m,-2880.56,-2698.75,-2799.48,47.6659
+TerrainPixelScale,mpp,60,60,60,0
+TerrainSlope,deg,1.56245,28.7754,15.8455,6.44217
